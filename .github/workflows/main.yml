@@ -24,4 +24,4 @@ jobs:
           pip install requests beautifulsoup4 zhdate
 
       - name: Run Python script
-        run: python your_script.py
+        run: python main.py
